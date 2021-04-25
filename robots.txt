@@ -1,1 +1,1 @@
-sitemap: https://lenicolenicolenico.github.io/takakoubou.io/sitemap.xml
+Sitemap: https://lenicolenicolenico.github.io/takakoubou.io/sitemap.xml
