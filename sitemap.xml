@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://lenicolenicolenico.github.io/takakoubou.io/</loc>
+  <priority>1.0</priority>
+  <lastmod>2021-04-25T13:40:27+09:00</lastmod>
+  <mobile:mobile />
+</url>
+<url>
+  <loc>https://lenicolenicolenico.github.io/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-12-06T14:51:47+09:00</lastmod>
+  <mobile:mobile />
+</url>
+
+</urlset>
