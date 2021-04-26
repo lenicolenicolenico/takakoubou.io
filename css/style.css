@@ -87,7 +87,7 @@ p {
 /* スマホ表示 -------------------------------------*/
 @media screen and (max-width: 768px) {
   .common-inner p {
-    width: 80%;
+    width: 82%;
     font-size: .6rem;
   }
 }
