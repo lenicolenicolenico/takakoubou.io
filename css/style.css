@@ -88,7 +88,7 @@ p {
 @media screen and (max-width: 768px) {
   .common-inner p {
     width: 80%;
-    font-size: .8rem;
+    font-size: .6rem;
   }
 }
 
