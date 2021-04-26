@@ -88,8 +88,9 @@ p {
 @media screen and (max-width: 768px) {
   .common-inner p {
     width: 70%;
-    font-size: .8rem;
+    font-size: .6rem;
     letter-spacing: 0.2rem;
+    text-align: left;
   }
 }
 
