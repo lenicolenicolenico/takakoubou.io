@@ -89,6 +89,7 @@ p {
   .common-inner p {
     width: 82%;
     font-size: .6rem;
+    letter-spacing: 0.2rem;
   }
 }
 
